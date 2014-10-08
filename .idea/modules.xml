@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AlchemyApp/.idea/AlchemyApp.iml" filepath="$PROJECT_DIR$/../AlchemyApp/.idea/AlchemyApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HolaMundo.iml" filepath="$PROJECT_DIR$/.idea/HolaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IDE-GEO/.idea/IDE-GEO.iml" filepath="$PROJECT_DIR$/../IDE-GEO/.idea/IDE-GEO.iml" />
     </modules>
   </component>
 </project>
